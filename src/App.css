@@ -1,0 +1,26 @@
+.logger {
+  font-family: futura;
+  color: orange;
+  margin: 20px;
+  text-align: center;
+  border: solid 2px;
+  border-radius: 10px;
+}
+
+button {
+  width: 100px;
+  height: 35px;
+  font-family: futura;
+  font-size: 15px;
+  color: white;
+  background-color: orange;
+  border-radius: 10px;
+}
+
+.date {
+  color: blue;
+}
+
+.p {
+  font-size: 15px;
+}
